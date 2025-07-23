@@ -1,0 +1,32 @@
+﻿cube , images/b12-a26-c2-1522942074039_27.png , markable_2,to_be_remove_invisible
+square , images/b12-a26-c2-1522942074039_52.png , markable_73,leave_for_future_next_structure
+all red blocks , images/b12-a26-c2-1522942074039_80.png , markable_85,to_be_remove_invisible
+whole resulting structure , images/b15-a38-c12-1523399104809_57.png , markable_53,"red_a, red_b, red_c, orange_a, orange_b, orange_c, yellow_a, yellow_b, yellow_c, green_a, green_b, green_c, blue_a, blue_b, blue_c, purple_a, purple_b, purple_c"
+target_structure , images/b1-a44-c20-1523036364610_2.png , markable_0 *,target_structure 
+all red blocks seen , images/b16-a26-c94-1524155062504_21.png , markable_10,"red_a, red_b, red_c, red_d, red_e, red_f, red_g, red_h, red_i, red_j, red_k, red_l, red_m, red_n, red_o, red_p"
+target_structure , images/b1-a4-c37-1522773058751_2.png , markable_0,target_structure 
+gap , images/b1-a4-c37-1522773058751_55.png , markable_22,leave_for_future_block_slot
+s111 , images/b1-a3-c2-1522434666266_157.png , markable_164,"red_a, red_b, red_g, red_c, red_d, red_f, red_h, red_e, purple_a, purple_b, purple_c, purple_d, purple_e, purple_f, purple_g, purple_h, purple_i, purple_j, purple_k, purple_l"
+the_ground , images/b1-a3-c2-1522434666266_3.png , markable_4,nb:ground
+s12 , images/b1-a3-c2-1522434666266_19.png , markable_6,"red_h, red_e, red_g, red_i, red_f, red_d, red_b, red_c, red_k, red_a, red_j, red_l"
+this_time , images/b1-a3-c2-1522434666266_1.png , markable_116,to_be_remove
+middle_of_surface , images/b1-a3-c2-1522434666266_5.png , markable_33,leave_for_future
+s82 , images/b1-a3-c2-1522434666266_114.png , markable_139,"purple_h, purple_p, purple_q, purple_k, purple_a, purple_j, purple_l, purple_t, purple_s, purple_f, purple_n, purple_d, purple_m, purple_c, purple_b, purple_o, purple_r, purple_e, purple_g, purple_i
+"
+s69 , images/b1-a3-c2-1522434666266_99.png , markable_134,"purple_h, purple_a, purple_b, purple_d, purple_c, purple_f, purple_g, purple_e"
+s90 , images/b1-a3-c2-1522434666266_127.png , markable_153,"purple_n, purple_o, purple_l, purple_a, purple_b, purple_k, purple_s, purple_r, purple_h, purple_e, purple_f, purple_m, purple_d, purple_c, purple_t, purple_q, purple_g, purple_i, purple_j, purple_p
+"
+bottom layer , images/b11-a7-c69-1522855627706_103.png , markable_48,to_be_remove_invisible
+whole red block structure , images/b1-a44-c48-1523037288443_55.png , markable_109,to_be_remove_invisible
+corners , images/b15-a38-c4-1523398777481_34.png , markable_37,leave_for_future_block_slot
+target_structure , images/b1-a4-c36-1522772574085_2.png , markable_73,leave_for_future_next_structure
+one of the blue blocks , images/b1-a4-c36-1522772574085_76.png , markable_33,to_be_remove_not_a_reference
+edges , images/b1-a4-c36-1522772574085_5.png , markable_4,leave_for_future_ground_edge
+cataphoric ref to resulting structure? , images/b1-a4-c36-1522772574085_6.png , markable_6,leave_for_future_next_structure
+cataphora to result? , images/b1-a4-c36-1522772574085_28.png , markable_16,leave_for_future_next_structure
+architect builder , images/b1-a3-c1-1522435497386_1.png , markable_0,nb:builder_and_architect
+now , images/b1-a3-c1-1522435497386_56.png , markable_50,to_be_remove
+ground of scene , images/b1-a3-c1-1522435497386_21.png , markable_35,nb:ground
+axis , images/b1-a3-c1-1522435497386_3.png , markable_26,leave_for_future_axis
+"e, unseen ", images/b1-a3-c1-1522435497386_35.png , markable_97,"red_h, red_d, red_g, red_a, red_c, red_f, red_b, red_e"
+"-5,0,0 ", images/b1-a3-c1-1522435497386_4.png , markable_85,green_a

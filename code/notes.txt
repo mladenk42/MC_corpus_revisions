@@ -1,0 +1,25 @@
+
+set paths in mmax_Fix.py ( Maris annotation path and logs path from the original dataset, version without screenshots is enough)
+
+
+
+
+The solution proposed by Mahyar Mirrashed is working for me. On my system (Ubuntu 22.04) the libstdc++.so.6 file is located in /usr/lib/x86_64-linux-gnu/libstdc++.so.6 To know where to find this file I suggest to run the following command :
+
+find / -name libstdc++.so.6 2>/dev/null
+
+which resulted with files from miniconda, snap and /usr/lib/... I added the export LD_PRELOAD to my .bashrc file and it's working fine.
+
+export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6
+
+
+
+
+
+set the font path in app.py
+
+
+
+
+
+python -m spacy download en_core_web_sm
